@@ -14,11 +14,11 @@ January 2023 - December 2025.
 
 ## Problem Statement:
 Fuel subsidy removal caused petrol and diesel prices to surge to all-time highs, creating an acute cost crisis across the transport sector. Fleet operators, logistics companies, and transport agencies lacked structured, data-driven tools to:
-Understand how fuel price changes translate to per-trip and per-kilometre cost increases across different vehicle types.
-Quantify the variation in fuel efficiency between transport modes (Car, Bus, Truck, Bike).
-Identify which routes and vehicle age cohorts bear the highest operational and environmental cost.
-Measure CO2 emission trends by fuel type and transport mode to inform fleet decarbonisation decisions.
-Make evidence-based decisions on fleet composition, route optimisation, and fuel-type transitions.
+* Understand how fuel price changes translate to per-trip and per-kilometre cost increases across different vehicle types.
+* Quantify the variation in fuel efficiency between transport modes (Car, Bus, Truck, Bike).
+* Identify which routes and vehicle age cohorts bear the highest operational and environmental cost.
+* Measure CO2 emission trends by fuel type and transport mode to inform fleet decarbonisation decisions.
+* Make evidence-based decisions on fleet composition, route optimisation, and fuel-type transitions.
 
 This project addresses these gaps by building a structured analytical framework and visual dashboard that empowers stakeholders - from fleet managers to policy analysts - to make informed, data-backed decisions.
 
