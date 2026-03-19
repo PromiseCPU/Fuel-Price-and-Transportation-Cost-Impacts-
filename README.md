@@ -27,8 +27,7 @@ This project addresses these gaps by building a structured analytical framework 
 Data cleaning and Exploratory Data Analysis.
 
 ### Power BI (Power query, BI desktop, DAX):
-BI Desktop (Dashboard & Visualization)
-Power Query ( Extract, Transform and Load (ETL))
+BI Desktop (Dashboard & Visualization), Power Query ( Extract, Transform and Load (ETL))
 
 ### GitHub & Google Drive:
 Portfolio Hosting
