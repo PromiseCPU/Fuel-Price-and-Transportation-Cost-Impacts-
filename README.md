@@ -1,4 +1,4 @@
-# Fuel-Price-and-Transportation-Cost-Impacts-
+# FUEL PRICE AND TRANSPORTATION COST IMPACTS 
 ## Overview:
 This report presents a comprehensive data analytics study on the impact of fuel price fluctuations on transportation costs in the country. The analysis explores fuel consumption patterns, cost distribution, route performance, and carbon dioxide (CO2) emission trends across four major transport modes: Car, Bus, Truck, and Bike.
 The project was built end-to-end: from raw data ingestion and cleaning, through exploratory analysis, to an interactive three-page Power BI dashboard (Fleet Overview, Fuel and Cost Analysis, and CO2 emissions and Efficiency). It is designed to demonstrate the application of data analytics skills: data wrangling, DAX calculations, storytelling with visuals, and actionable business intelligence.
