@@ -109,6 +109,8 @@ The Fuel & Cost Analysis page focuses on the economics of fleet operations. It s
 ### Page 3 ~ CO2 Emissions & Efficiency
 The Emissions & Efficiency page examines the environmental footprint of the fleet. It displays emission KPIs, a route-level CO2 emissions table, a time-series bar chart of CO2 by fuel type (2023–2025), an area chart of total vehicle age by emission bin, a scatter of average CO2 per km vs. distance, and interactive transport mode and emission bin filters.
 
+![image alt](https://github.com/PromiseCPU/Fuel-Price-and-Transportation-Cost-Impacts-/blob/770af2739fecbf160cb4c88fe963cf2b53973520/sEmission.png)
+
 ## Key Insights:
 ### Fleet Overview:
 * The fleet is balanced across four transport modes — each accounting for roughly 25% of trip records — with Car (26.49 %) and Truck (25.1%) slightly leading Bus (25.1%) and Bike (23.5%).
