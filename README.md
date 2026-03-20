@@ -104,6 +104,8 @@ The Fleet Overview page provides a high-level executive summary of fleet operati
 ### Page 2 ~ Fuel & Cost Analysis
 The Fuel & Cost Analysis page focuses on the economics of fleet operations. It shows average fuel consumption and cost KPIs, a speedometer gauge for fuel consumption range, a fuel cost distribution by bin (bar chart), a scatter plot of fuel consumption vs. distance, and a horizontal bar chart of total fuel consumed by transport mode.
 
+![image alt](https://github.com/PromiseCPU/Fuel-Price-and-Transportation-Cost-Impacts-/blob/f7d530238dac7a5ea9e4907a2f3c4a63046fe459/sFuel%26Cost.png)
+
 ### Page 3 ~ CO2 Emissions & Efficiency
 The Emissions & Efficiency page examines the environmental footprint of the fleet. It displays emission KPIs, a route-level CO2 emissions table, a time-series bar chart of CO2 by fuel type (2023–2025), an area chart of total vehicle age by emission bin, a scatter of average CO2 per km vs. distance, and interactive transport mode and emission bin filters.
 
