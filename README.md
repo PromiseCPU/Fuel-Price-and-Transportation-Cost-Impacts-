@@ -98,6 +98,7 @@ An interactive end-to-end 3-page Power BI dashboard developed on Power BI Deskto
 
 ### Page 1 ~ Fleet Overview
 The Fleet Overview page provides a high-level executive summary of fleet operations. It features four headline KPI cards, a fuel types donut chart, the top 9 routes by total distance, a trip activity bar chart by year, transport mode tiles, and a vehicle age distribution treemap. Together, these visuals deliver a comprehensive operational picture at a glance.
+
 ![image alt](https://github.com/PromiseCPU/Fuel-Price-and-Transportation-Cost-Impacts-/blob/6a6880ee736a9cae02e55cdaa15b9110597c03e4/sFleet.png)
 
 ### Page 2 ~ Fuel & Cost Analysis
