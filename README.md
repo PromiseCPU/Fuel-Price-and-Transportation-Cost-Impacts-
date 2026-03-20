@@ -49,7 +49,7 @@ Dataset Summary: 1000 Total records, 15 Features/ columns , (2023 - 2025) Date r
 * What is the CO2 emission profile by fuel type, and which type is most efficient?
 * How does fuel cost distribute across cost bins (Extreme, Very High, High, Moderate, Medium, Low, Very Low)?
 
-### KPI Metric:
+### KPI Metrics:
 * Total Fuel Consumed (40.84K litres/kWh)
 * Total Fuel Cost (₦56M (approx.))
 * Total CO2 Emissions (109.83K kg)
