@@ -36,8 +36,7 @@ Portfolio Hosting
 An excel dataset downloaded from Kaggle. All data cleaning was carried out in MS Excel, while the dataset was transferred to Power BI for dashboard/ visualization purposes.
 
 Dataset Summary: 1000 Total records, 15 Features/ columns , (2023 - 2025) Date range, 576 Unique features.
-[Visit Dataset](https://github.com/PromiseCPU/Fuel-Price-and-Transportation-Cost-Impacts-/blob/3056bc9a10e9434201efff417e1f6eb85526f478/Transport%20-%20Fuel%20Nigeria%20Dataset.xlsx)
-
+[Visit Dataset](https://github.com/PromiseCPU/Fuel-Price-and-Transportation-Cost-Impacts-/blob/3056bc9a10e9434201efff417e1f6eb85526f478/Transport%20-%20Fuel%20Nigeria%20Dataset.xlsx) AND
 [Visit PowerBI User Interface](https://github.com/PromiseCPU/Fuel-Price-and-Transportation-Cost-Impacts-/blob/5183a29caca3b5e3ae6dfee521840752e2a7013f/Transport%20-%20Fuel%20PowerBI%20project.pbix)
 
 ## Questions & KPIs:
